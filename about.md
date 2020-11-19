@@ -26,3 +26,5 @@ Molecular genetics, Epigenetics, Child brain development, Gene-environment inter
 ## Ad-hoc reviewer:
 
 American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, BMC Neuroscience, Emotions, Genes, Brain, & Behavior, Journal of Affective Disorders, Journal of Clinical Child and Adolescent Psychology, Journal of Psychological Science, Neuroscience, Neuroscience Letters, PLoS ONE, Psychiatric Genetics, Psychiatry Research, Progress in Neuro-Psychopharmacology & Biological Psychiatry.
+
+## Published and In-Press Manuscripts:
