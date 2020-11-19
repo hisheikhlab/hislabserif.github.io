@@ -1,52 +1,28 @@
 ---
-title: 'About'
+title: 'Dr Haroon Sheikh'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+ASSOCIATE PROFESSOR-
+SCHOOL OF LIFE SCIENCES, FCC
 
-## Ne verba patulosque numen vix libet
+PhD Molecular Genetics (University of Western Ontario, London, Ontario, Canada);
+Postdoctoral Fellowship: The Carver College of Medicine, University of Iowa Hospital & Clinics;
+Johns Hopkins School of Medicine, Baltimore, MD, USA
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## About
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Over 15 years of research & teaching experience in some of North Americas top research universities and recipient of numerous prestigious academic awards during graduate and postdoctoral training. Continuing research interests include molecular genetics of the physiological stress (HPA axis) stress response in early childhood and investigating early childhood neurodevelopmental risk for mental health outcomes such as depression, anxiety, ADHD, schizophrenia, bipolar disorder, etc. Additional research experience also included forensic DNA work in trace and touch DNA analysis, infection and immunity work in biohazard level 4 containment and biosafety procedure development. Over 32 publications (over 750 citations and h-index of 15) in some of the fields top peer-reviewed journals.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Research interests: 
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Molecular genetics, Epigenetics, Child brain development, Gene-environment interactions and neurodevelopmental risk, Structural and functional imaging, Bioinformatics, Psychiatric genetics, next generation sequencing.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+†Potential graduate students interested in pursuing MPhil or DPhil training in neurogenetics, bioinformatics and human molecular genetics are encouraged to email their CV.**
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+## Ad-hoc reviewer:
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, BMC Neuroscience, Emotions, Genes, Brain, & Behavior, Journal of Affective Disorders, Journal of Clinical Child and Adolescent Psychology, Journal of Psychological Science, Neuroscience, Neuroscience Letters, PLoS ONE, Psychiatric Genetics, Psychiatry Research, Progress in Neuro-Psychopharmacology & Biological Psychiatry.
