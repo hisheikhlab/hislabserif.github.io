@@ -13,4 +13,4 @@ Office: Room # 344, Armacost Science Building, School of lIfe sciences, FCC.
 | Wednesday | 8:30am - 4:00pm |
 | Thursday  | 8:30am - 4:00pm |
 | Friday    | 8:30am - 4:00pm |
-|
+| Sat,Sun   | Closed          |
